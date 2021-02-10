@@ -5,9 +5,9 @@ font: italic 1.2em "Fira Sans", serif;
 } 
 
 h1, h2 { 
-	color: red
+	color: light-red
 }
 
 p { 
-	margin-left: 10%;
+	margin-left: 5%;
 }
