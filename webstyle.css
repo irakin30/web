@@ -1,8 +1,13 @@
 body {  
 background-color: black; 
 color: white ; 
+font: italic 1.2em "Fira Sans", serif;
 } 
 
-h2 { 
-	font: italic 1.2em "Fira Sans", serif;
+h1, h2 { 
+	color: red
+}
+
+p { 
+	margin-left: 10%;
 }
