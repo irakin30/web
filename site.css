@@ -24,7 +24,7 @@
 }
 
 body {  
-	background: url(https://github.com/irakin30/web/blob/main/double-bubble-dark.png) repeat 0 0; 
+	background: url("double-bubble-dark.png") repeat 0 0; 
 	color: white ; 
 	font-family: 'Nobile', Helvetica, Arial, sans-serif;
 } 
