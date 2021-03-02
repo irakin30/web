@@ -24,7 +24,7 @@
 }
 
 body {  
-	background-image: url(double-bubble-dark.png) repeat 0 0; 
+	background-color: black; 
 	color: white ; 
 	font-family: 'Nobile', Helvetica, Arial, sans-serif;
 } 
