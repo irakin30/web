@@ -30,9 +30,6 @@ font: italic 1.2em "Fira Sans", serif;
 } 
 
 h1, h2 { 
-	color: light-red
+	color: gold
 }
 
-p { 
-	margin-left: 5%;
-}
