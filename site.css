@@ -1,35 +1,36 @@
 
 .topnav {
-  background-color: black;
-  overflow: hidden;
+	background-color: black;
+	overflow: hidden;
 }
 
 .topnav a {
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
 }
 
 .topnav a:hover {
-  background-color: white;
-  color: black;
+	background-color: white;
+	color: black;
 }
 
 .topnav a.active {
-  background-color: white;
-  color: black;
+	background-color: white;
+	color: black;
 }
 
 body {  
-background-color: black; 
-color: white ; 
-font: italic 1.2em "Fira Sans", serif;
+	background: url(https://github.com/irakin30/web/blob/main/double-bubble-dark.png) repeat 0 0; 
+	color: white ; 
+	font-family: 'Nobile', Helvetica, Arial, sans-serif;
 } 
 
 h1, h2 { 
-	color: gold
+	color: gold;
+	font-family: 'Corben', Georgia, Times, serif;
 }
 
